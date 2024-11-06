@@ -28,5 +28,5 @@ Dataset ini berisi informasi mengenai 50 putusan kasus narkotika dan psikotropik
 Dataset ini disusun dan diproses dengan mengacu pada putusan-putusan yang tersedia di Mahkamah Agung Republik Indonesia dan Pengadilan Negeri Sleman.
 
 ## Penyusun Dataset
-Muhammad Zidan Rifardi
-Muhammad Hadi Nur Fakhri
+- Muhammad Zidan Rifardi
+- Muhammad Hadi Nur Fakhri
