@@ -16,11 +16,9 @@ Dataset ini berisi informasi mengenai 50 putusan kasus narkotika dan psikotropik
 ## Format Data
 
 - **Format**: Xlxs (Microsoft Excel Spreadsheet)
-- **Encoding**: UTF-8
 
 ## Sumber Data
 
-- Mahkamah Agung Republik Indonesia, **Direktori Putusan**: https://putusan3.mahkamahagung.go.id/direktori.html
 - Pengadilan Negeri Sleman, **Klasifikasi Kasus Narkotika dan Psikotropika**: https://putusan3.mahkamahagung.go.id/direktori/index/pengadilan/pn-sleman/kategori/narkotika-dan-psikotropika-1.html
 
 ## Acknowledgements
@@ -28,5 +26,5 @@ Dataset ini berisi informasi mengenai 50 putusan kasus narkotika dan psikotropik
 Dataset ini disusun dan diproses dengan mengacu pada putusan-putusan yang tersedia di Mahkamah Agung Republik Indonesia dan Pengadilan Negeri Sleman.
 
 ## Penyusun Dataset
-- Muhammad Zidan Rifardi
-- Muhammad Hadi Nur Fakhri
+- Muhammad Zidan Rifardi (202110370311268)
+- Muhammad Hadi Nur Fakhri (202110370311255)
